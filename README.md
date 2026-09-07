@@ -24,8 +24,7 @@
 ### GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sgmstha&show_icons=true&theme=dark&hide_border=false" alt="Sugam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sgmstha&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sgmstha&theme=github-compact" width="100%" alt="Sugam's Contribution Graph" />
 </p>
 
 ### About Me
