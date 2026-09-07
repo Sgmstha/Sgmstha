@@ -1,41 +1,35 @@
 <div align="center">
-  <h1>Hi 👋, I'm Sugam Shrestha</h1>
-  <p><strong>Frontend Designer & UI Developer</strong></p>
-  <p>Specializing in interactive 3D web experiences, responsive design systems, and frontend performance.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21&height=200&section=header&text=Sugam%20Shrestha&fontSize=65&fontAlignY=38&desc=Full%20Stack%20%7C%20Frontend%20&%203D%20Web%20Developer&descAlignY=58&descAlign=50&fontColor=ffffff" width="100%" />
 
-  <p>
-    <a href="https://sugam-shrestha.com.np"><img src="https://img.shields.io/badge/🌐_Portfolio-sugam--shrestha.com.np-blue?style=for-the-badge" alt="Portfolio"/></a>
-    <a href="mailto:rage33210@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-rage33210@gmail.com-red?style=for-the-badge" alt="Email"/></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  </p>
+  <br />
+
+  <a href="https://sugam-shrestha.com.np">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-sugam--shrestha.com.np-0070F3?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sugam-shrestha-67682a29b/">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Sugam%20Shrestha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rage33210@gmail.com">
+    <img src="https://img.shields.io/badge/✉️%20Email-rage33210@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+Interactive+3D+Web+Experiences;Full+Stack+Development+with+React+%26+Next.js;UI%2FUX+Design+%26+Performance+Optimization;Deploying+Scalable+Cloud+%26+Edge+Solutions">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+Interactive+3D+Web+Experiences;Full+Stack+Development+with+React+%26+Next.js;UI%2FUX+Design+%26+Performance+Optimization;Deploying+Scalable+Cloud+%26+Edge+Solutions" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-### 🚀 What I Do
-* 🎨 **Interactive 3D & Web Experiences:** Building immersive UI layouts with modern React, Three.js, and WebGL.
-* ⚡ **Performance & Optimization:** Diagnosing UI bottlenecks, asset compression (GLTF/GLB/WebP), and layout stability.
-* 🛠️ **Component Systems:** Clean, maintainable styling with Tailwind CSS, Flexbox/Grid architectures, and accessible UI patterns.
+### 💫 About Me
 
----
-
-### 💻 Tech Stack & Tools
-
-**Frontend & Creative 3D**  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,js,ts,html,css,tailwind" />
-</p>
-
-**Tooling, Diagnostics & Deployment**  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,postman,sentry" />
-</p>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sgmstha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgmstha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="155"/>
-</div>
+```javascript
+const sugam = {
+  pronouns: "he/him",
+  location: "Nepal",
+  role: "Full Stack & Frontend Developer",
+  passions: ["Interactive 3D Visuals", "Clean UI Systems", "High-Performance Web"],
+  currentFocus: "Architecting a 3D WebGL developer portfolio on Vercel",
+  challenge: "Bridging the gap between rich 3D graphics and sub-second web load times"
+};
