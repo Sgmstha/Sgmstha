@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/sugam-shrestha-67682a29b/">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-Sugam%20Shrestha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rage33210@gmail.com">
+  <a href="mailto:sugam.shrestha2022@gmail.com">
     <img src="https://img.shields.io/badge/✉️%20Email-rage33210@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -21,6 +21,12 @@
 </div>
 
 ---
+### GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sgmstha&show_icons=true&theme=default&hide_border=false" alt="Sugam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgmstha&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+</p>
 
 ### 💫 About Me
 
