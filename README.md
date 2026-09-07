@@ -1,16 +1,41 @@
- <h1 align="center">Hi 👋, I'm Sugam Shrestha</h1>
-    <h3 align="center">A passionate developer from Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-    - 🌱 I’m currently learning **Computer Science** - ⚡ Fun fact **I am Simple 1**
+<div align="center">
+  <h1>Hi 👋, I'm Sugam Shrestha</h1>
+  <p><strong>Frontend Designer & UI Developer</strong></p>
+  <p>Specializing in interactive 3D web experiences, responsive design systems, and frontend performance.</p>
 
-  <h3 align="left">Connect with me:</h3>
-    <p align="left">
-    </p>
+  <p>
+    <a href="https://sugam-shrestha.com.np"><img src="https://img.shields.io/badge/🌐_Portfolio-sugam--shrestha.com.np-blue?style=for-the-badge" alt="Portfolio"/></a>
+    <a href="mailto:rage33210@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-rage33210@gmail.com-red?style=for-the-badge" alt="Email"/></a>
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-        <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
-        <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="Python" width="40" height="40" /> </a>
-        
+---
+
+### 🚀 What I Do
+* 🎨 **Interactive 3D & Web Experiences:** Building immersive UI layouts with modern React, Three.js, and WebGL.
+* ⚡ **Performance & Optimization:** Diagnosing UI bottlenecks, asset compression (GLTF/GLB/WebP), and layout stability.
+* 🛠️ **Component Systems:** Clean, maintainable styling with Tailwind CSS, Flexbox/Grid architectures, and accessible UI patterns.
+
+---
+
+### 💻 Tech Stack & Tools
+
+**Frontend & Creative 3D**  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,js,ts,html,css,tailwind" />
+</p>
+
+**Tooling, Diagnostics & Deployment**  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,postman,sentry" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sgmstha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgmstha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="155"/>
+</div>
