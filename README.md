@@ -21,11 +21,7 @@
 </div>
 
 ---
-### GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sgmstha&theme=github-compact" width="100%" alt="Sugam's Contribution Graph" />
-</p>
 
 ### About Me
 
